@@ -1,0 +1,5 @@
+export { default as gatherLabels } from './gatherLabels'
+export { default as removeDuplicates } from './removeDuplicates'
+export { default as getTaskIndex } from './getTaskIndex'
+export { default as sortTasks } from './sortTasks'
+export { default as filterTasks } from './filterTasks'
